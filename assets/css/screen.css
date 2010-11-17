@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* All the main styles and stylesheet imports
+ *
+ * @file		screen.css
+ *
+ * @type		strict
+ *
+ * @link		http://www.risermedia.com/
+ * @copyright	2010 RiserMedia. All Rights Reserved.
+ *
+ */
+ 
+
+/*===================================
+	GLOBAL
+===================================*/
+@import "reset.css";
+
+html {color: #000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; height: 100%;}
